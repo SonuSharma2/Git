@@ -1,0 +1,5 @@
+TC_Login_01
+Verify user can open the homepage successfully with valid credentials
+
+TC_Login_02
+Verify invalid login credentials show an error message
